@@ -1,20 +1,3 @@
-
-'''
-    Hey! This was my first ever project, created all the way back in 2022, I made
-    this in honour of my brother who used to be really interested in computer science.
-    
-    He made a simple banking system with transaction logs using Python and mySQL,
-    all of the accounts, transaction logs, and everything else would be logged
-    in csv files.
-    
-    I was also extremely interested in Python at the time, so I followed in my brother's
-    footsteps and made my own banking system, it's no way as great as my brother's,
-    but it was the first project I ever properly made.
-    
-    To my brother, I love you <3
-'''
-
-
 acc_create = False
 money = 0
 print("Yes Bank")
